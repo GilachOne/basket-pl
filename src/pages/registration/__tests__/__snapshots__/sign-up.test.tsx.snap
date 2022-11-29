@@ -1,0 +1,288 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing SignUp render SignUp render 1`] = `
+<div>
+  <form
+    class="css-1j0uknl"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-b4r50f"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-lz3grr"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-1w7a31v"
+      >
+        <a
+          class="css-19rbtxx"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value=""
+    />
+    <input
+      class="css-13ooyay"
+      name="login"
+      placeholder="Логин"
+      type="text"
+      value=""
+    />
+    <input
+      class="css-13ooyay"
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value=""
+    />
+    <button
+      class="css-1pu8y8f"
+      type="submit"
+    >
+      Регистрация
+    </button>
+  </form>
+</div>
+`;
+
+exports[`testing SignUp render Test clicks SignUp  1`] = `
+<div>
+  <form
+    class="css-1j0uknl"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-b4r50f"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-lz3grr"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-1w7a31v"
+      >
+        <a
+          class="css-19rbtxx"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value=""
+    />
+    <input
+      class="css-13ooyay"
+      name="login"
+      placeholder="Логин"
+      type="text"
+      value=""
+    />
+    <input
+      class="css-13ooyay"
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value=""
+    />
+    <button
+      class="css-1pu8y8f"
+      type="submit"
+    >
+      Регистрация
+    </button>
+  </form>
+</div>
+`;
+
+exports[`testing SignUp render Test clicks SignUp  2`] = `
+<div>
+  <form
+    class="css-1j0uknl"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-b4r50f"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-lz3grr"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-1w7a31v"
+      >
+        <a
+          class="css-19rbtxx"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value="emailtest.ru"
+    />
+    <span
+      class="css-uexi7o"
+    >
+      Не валидный адрес электронной почты
+    </span>
+    <input
+      class="css-13ooyay"
+      name="login"
+      placeholder="Логин"
+      type="text"
+      value=""
+    />
+    <span
+      class="css-uexi7o"
+    >
+      Логин не может быть пустым
+    </span>
+    <input
+      class="css-13ooyay"
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value=""
+    />
+    <span
+      class="css-uexi7o"
+    >
+      Пароль не может быть пустым
+    </span>
+    <button
+      class="css-1pu8y8f"
+      type="submit"
+    >
+      Регистрация
+    </button>
+  </form>
+</div>
+`;
+
+exports[`testing SignUp render Test clicks SignUp  3`] = `
+<div>
+  <form
+    class="css-1j0uknl"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-b4r50f"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-lz3grr"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-1w7a31v"
+      >
+        <a
+          class="css-19rbtxx"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value="email@test.ru"
+    />
+    <input
+      class="css-13ooyay"
+      name="login"
+      placeholder="Логин"
+      type="text"
+      value="TestName"
+    />
+    <input
+      class="css-13ooyay"
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value="12345\\"Dd"
+    />
+    <button
+      class="css-1pu8y8f"
+      type="submit"
+    >
+      Регистрация
+    </button>
+  </form>
+</div>
+`;

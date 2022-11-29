@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Not Found Page Not Found Test 1`] = `
+<div>
+  <div
+    class="css-1d342t8"
+  >
+    <h1>
+      Страница не найдена
+    </h1>
+    <div
+      class="css-8428uh"
+    >
+      <h1>
+        Страница не найдена
+      </h1>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "data": [
+		{
+			"id": "uuid1",
+			"name": "Продукты",
+			"color": "#08AE0F"
+		},
+		{
+			"id": "uuid2",
+			"name": "Бытовая химия",
+			"color": "#3414F5"
+		}
+    ]    
+}

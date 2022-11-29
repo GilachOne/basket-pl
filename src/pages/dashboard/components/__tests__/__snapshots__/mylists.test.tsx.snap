@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyListsComponent MyListsComponent Empty 1`] = `
+<body>
+  <div>
+    <main
+      class="css-1jsn5n8"
+    >
+      <img
+        alt="logo"
+        class="css-wnwrug"
+        src="logo.png"
+      />
+      <p
+        class="css-f4jk5p"
+      >
+        Создайте свой первый список.
+      </p>
+      <p
+        class="css-f4jk5p"
+      >
+        Сделайте покупки быстрее и удобнее
+      </p>
+      <button
+        class="css-ftp01x"
+        data-testid="addButton"
+      >
+        +
+      </button>
+    </main>
+  </div>
+</body>
+`;
+
+exports[`MyListsComponent MyListsComponent With list 1`] = `
+<body>
+  <div>
+    <main
+      class="css-1jsn5n8"
+    >
+      <div
+        class="css-qte5c2"
+      >
+        <div
+          class="css-1nclwr3"
+          data-testid="uuid1"
+        >
+          <p
+            class="css-14z2g2o"
+          >
+            Состоялась 94-я церемония вручения премии «Оскар»: награда за лучший фильм присуждена картине...
+          </p>
+        </div>
+        <div
+          class="css-115o3ib"
+        >
+          <p
+            class="css-9x7icz"
+          >
+            0 / 5
+          </p>
+          <div>
+            <div
+              aria-expanded="false"
+              aria-label="Dropdown select"
+              class="react-dropdown-select css-14g55hk css-16vukcu e1gzf2xs0"
+              color="#0074D9"
+              direction="ltr"
+              tabindex="0"
+            >
+              <div
+                class="react-dropdown-select-content react-dropdown-select-type-single css-1m5113o e1gn6jc30"
+              >
+                <input
+                  class="react-dropdown-select-input css-1ov1ozn e11wid6y0"
+                  placeholder=""
+                  tabindex="-1"
+                  value=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-qte5c2"
+      >
+        <div
+          class="css-1nclwr3"
+          data-testid="uuid2"
+        >
+          <p
+            class="css-14z2g2o"
+          >
+            Второй список
+          </p>
+        </div>
+        <div
+          class="css-115o3ib"
+        >
+          <p
+            class="css-9x7icz"
+          >
+            1 / 5
+          </p>
+          <div>
+            <div
+              aria-expanded="false"
+              aria-label="Dropdown select"
+              class="react-dropdown-select css-14g55hk css-16vukcu e1gzf2xs0"
+              color="#0074D9"
+              direction="ltr"
+              tabindex="0"
+            >
+              <div
+                class="react-dropdown-select-content react-dropdown-select-type-single css-1m5113o e1gn6jc30"
+              >
+                <input
+                  class="react-dropdown-select-input css-1ov1ozn e11wid6y0"
+                  placeholder=""
+                  tabindex="-1"
+                  value=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-qte5c2"
+      >
+        <div
+          class="css-1nclwr3"
+          data-testid="uuid3"
+        >
+          <p
+            class="css-14z2g2o"
+          >
+            Первый список
+          </p>
+        </div>
+        <div
+          class="css-115o3ib"
+        >
+          <p
+            class="css-9x7icz"
+          >
+            5 / 5
+          </p>
+          <div>
+            <div
+              aria-expanded="false"
+              aria-label="Dropdown select"
+              class="react-dropdown-select css-14g55hk css-16vukcu e1gzf2xs0"
+              color="#0074D9"
+              direction="ltr"
+              tabindex="0"
+            >
+              <div
+                class="react-dropdown-select-content react-dropdown-select-type-single css-1m5113o e1gn6jc30"
+              >
+                <input
+                  class="react-dropdown-select-input css-1ov1ozn e11wid6y0"
+                  placeholder=""
+                  tabindex="-1"
+                  value=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button
+        class="css-ftp01x"
+        data-testid="addButton"
+      >
+        +
+      </button>
+    </main>
+  </div>
+</body>
+`;

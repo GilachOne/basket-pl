@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "data": 
+    {
+        "id": "629b258b42bfc61a9f7aa563",
+        "parentId": "629b1c6f1748e817ca0a17a6",
+        "categoryId": "629b1c201748e817ca0a17a2",
+        "text": "хлеб",
+        "count": 3,
+        "bought": false,
+        "createdBy": "fakeUserId",
+        "createdDt": 1654334859708,
+        "modifiedBy": "fakeUserId",
+        "modifiedDt": 1654334859708,
+        "color": "#9D79B9"
+    }
+}

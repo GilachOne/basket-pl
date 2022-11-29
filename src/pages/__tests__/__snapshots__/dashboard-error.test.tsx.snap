@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard Page Dashboard Error Test 1`] = `
+<div>
+  <div
+    class="css-1wxw69z"
+  >
+    <header
+      class="css-22fkfx"
+    >
+      <p
+        class="css-1adnaza"
+      >
+        вМагазин
+      </p>
+      <div
+        class="css-1v5wvrd"
+      >
+        <button
+          class="css-z414q7"
+          data-testid="Выход"
+        >
+          <img
+            src="log-out.png"
+            title="Выход"
+          />
+        </button>
+      </div>
+    </header>
+    <div
+      class="css-0"
+    >
+      <div
+        class="css-1sie743"
+      >
+        Список не загрузился
+      </div>
+      <main
+        class="css-1jsn5n8"
+      >
+        <img
+          alt="logo"
+          class="css-wnwrug"
+          src="logo.png"
+        />
+        <p
+          class="css-f4jk5p"
+        >
+          Создайте свой первый список.
+        </p>
+        <p
+          class="css-f4jk5p"
+        >
+          Сделайте покупки быстрее и удобнее
+        </p>
+        <button
+          class="css-ftp01x"
+          data-testid="addButton"
+        >
+          +
+        </button>
+      </main>
+    </div>
+  </div>
+</div>
+`;

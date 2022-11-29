@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": "uuid1",
+            "listName": "Состоялась 94-я церемония вручения премии «Оскар»: награда за лучший фильм присуждена картине...",
+            "purchased": 0,
+            "total": 5,
+            "timeStamp": 1655042751460,
+            "userId": "62a31b1b0d78fc3d44f3edd6"
+        },
+        {
+            "id": "uuid2",
+            "listName": "Второй список",
+            "purchased": 1,
+            "total": 5,
+            "timeStamp": 1655042751460,
+             "userId": "62a31b1b0d78fc3d44f3edd6"
+        },
+        {
+            "id": "uuid3",
+            "listName": "Первый список",
+            "purchased": 5,
+            "total": 5,
+            "timeStamp": 1655042751460,
+            "userId": "62a31b1b0d78fc3d44f3edd6"
+        }
+    ]
+} 

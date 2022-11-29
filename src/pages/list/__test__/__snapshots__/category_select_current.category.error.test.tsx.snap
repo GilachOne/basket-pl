@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing CategorySelect current categories error test render CategorySelect current categories error 1`] = `
+<div>
+  <div>
+    <div
+      class="css-10m13ut"
+    >
+      <div
+        class="css-1gwlyb6"
+      >
+        <a
+          class="css-12eo6k0"
+          href="/url/url/"
+          title="Назад"
+        >
+          <img
+            alt="back"
+            src="arrow-left.svg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="css-1sie743"
+    >
+      Текущий список не загрузился...
+    </div>
+  </div>
+</div>
+`;

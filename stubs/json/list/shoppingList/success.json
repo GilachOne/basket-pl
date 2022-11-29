@@ -1,0 +1,72 @@
+{
+    "success": true,
+        "data":[
+            {
+                "id": "629b24d142bfc61a9f7aa562",
+                "parentId": "629b1c6f1748e817ca0a17a6",
+                "categoryId": "629b1c201748e817ca0a17a2",
+                "text": "рыба",
+                "count": 5,
+                "bought": false,
+                "createdBy": "fakeUserId",
+                "createdDt": 1654334673498,
+                "modifiedBy": "fakeUserId",
+                "modifiedDt": 1654334673498,
+                "color": "#9D79B9"
+            },
+            {
+                "id": "629b258b42bfc61a9f7aa563",
+                "parentId": "629b1c6f1748e817ca0a17a6",
+                "categoryId": "629b1c201748e817ca0a17a2",
+                "text": "хлеб",
+                "count": 3,
+                "bought": false,
+                "createdBy": "fakeUserId",
+                "createdDt": 1654334859708,
+                "modifiedBy": "fakeUserId",
+                "modifiedDt": 1654334859708,
+                "color": "#9D79B9"
+            },
+            {
+                "id": "629b25df42bfc61a9f7aa564",
+                "parentId": "629b1c6f1748e817ca0a17a6",
+                "categoryId": "629b1c201748e817ca0a17a2",
+                "text": "молоко",
+                "count": 2,
+                "bought": false,
+                "createdBy": "fakeUserId",
+                "createdDt": 1654334943629,
+                "modifiedBy": "fakeUserId",
+                "modifiedDt": 1654334943629,
+                "color": "#9D79B9"
+            },
+            {
+                "id": "629b265242bfc61a9f7aa565",
+                "parentId": "629b1c6f1748e817ca0a17a6",
+                "categoryId": "629b1c201748e817ca0a17a1",
+                "text": "мыло",
+                "count": 1,
+                "bought": false,
+                "createdBy": "fakeUserId",
+                "createdDt": 1654335058374,
+                "modifiedBy": "fakeUserId",
+                "modifiedDt": 1654335058374,
+                "color": "#08AE0F"
+            },
+            {
+                "id": "629b270442bfc61a9f7aa566",
+                "parentId": "629b1c6f1748e817ca0a17a6",
+                "categoryId": "629b1c201748e817ca0a17a4",
+                "text": "жаропонижающее",
+                "count": 2,
+                "bought": false,
+                "createdBy": "fakeUserId",
+                "createdDt": 1654335236618,
+                "modifiedBy": "fakeUserId",
+                "modifiedDt": 1654335236618,
+                "color": "#3414F5"
+            }
+        ]
+    
+    
+}

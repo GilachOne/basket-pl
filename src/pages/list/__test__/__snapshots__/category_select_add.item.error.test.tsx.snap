@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing CategorySelect add Item error test render CategorySelect add Item error 1`] = `
+<div>
+  <div>
+    <div
+      class="css-10m13ut"
+    >
+      <div
+        class="css-1gwlyb6"
+      >
+        <a
+          class="css-12eo6k0"
+          href="/url/url/"
+          title="Назад"
+        >
+          <img
+            alt="back"
+            src="arrow-left.svg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="css-1gwlyb6"
+    >
+      <ul
+        class="css-1loydxm"
+      >
+        <li
+          class="css-kagisi"
+        >
+          <h2
+            class="css-156op5v"
+          >
+            Выберите категорию:
+          </h2>
+        </li>
+        <li
+          class="css-kagisi"
+        >
+          <button
+            class="css-kxqetq"
+            title="Кнопка для добавления категорий"
+            type="button"
+          >
+            +
+          </button>
+        </li>
+      </ul>
+      <form>
+        <div
+          class="css-139b3em"
+        >
+          <button
+            class="css-p42m1b"
+            color="#FFFFFF"
+            title="Продукты"
+            type="button"
+          >
+            <div
+              class="css-1q4bltv"
+              color="#08AE0F"
+            />
+            Продукты
+          </button>
+          <button
+            class="css-sbcdrl"
+            color="#D2D5D9"
+            title="Бытовая химия"
+            type="button"
+          >
+            <div
+              class="css-1ewgiqb"
+              color="#3414F5"
+            />
+            Бытовая химия
+          </button>
+        </div>
+        <p
+          class="css-1enixo5"
+        >
+          Введите название покупки:
+        </p>
+        <div
+          class="css-dw8up7"
+        >
+          <textarea
+            class="css-14sbxw9"
+            name="text"
+            placeholder="Введите текст"
+          >
+            Чистящее средство
+          </textarea>
+        </div>
+        <button
+          class="css-10uh9e6"
+          title="Добавить"
+          type="submit"
+        >
+          Добавить
+        </button>
+        <span
+          class="css-uexi7o"
+        >
+          Позиция не добавлена...
+        </span>
+      </form>
+    </div>
+  </div>
+</div>
+`;

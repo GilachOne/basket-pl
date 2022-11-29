@@ -1,0 +1,275 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing SignIn render SignIn render 1`] = `
+<div>
+  <form
+    class="css-1jmybar"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-9jhoxj"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-bpveru"
+      >
+        <a
+          class="css-16uqpe4"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-bw50an"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value=""
+    />
+    <input
+      class="css-13ooyay"
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value=""
+    />
+    <button
+      class="css-4yv41o"
+      type="submit"
+    >
+      Войти
+    </button>
+    <a
+      class="css-1df3x8g"
+      href="/url/url/"
+    >
+      Сбросить пароль
+    </a>
+  </form>
+</div>
+`;
+
+exports[`testing SignIn render Test clicks SignIn tab  1`] = `
+<div>
+  <form
+    class="css-1jmybar"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-9jhoxj"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-bpveru"
+      >
+        <a
+          class="css-16uqpe4"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-bw50an"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value=""
+    />
+    <input
+      class="css-13ooyay"
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value=""
+    />
+    <button
+      class="css-4yv41o"
+      type="submit"
+    >
+      Войти
+    </button>
+    <a
+      class="css-1df3x8g"
+      href="/url/url/"
+    >
+      Сбросить пароль
+    </a>
+  </form>
+</div>
+`;
+
+exports[`testing SignIn render Test clicks SignIn tab  2`] = `
+<div>
+  <form
+    class="css-1jmybar"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-9jhoxj"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-bpveru"
+      >
+        <a
+          class="css-16uqpe4"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-bw50an"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      disabled=""
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value="email@test.ru"
+    />
+    <input
+      class="css-13ooyay"
+      disabled=""
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value="12345\\"Dd"
+    />
+    <button
+      class="css-4yv41o"
+      disabled=""
+      type="submit"
+    >
+      Войти
+    </button>
+    <a
+      class="css-1df3x8g"
+      href="/url/url/"
+    >
+      Сбросить пароль
+    </a>
+  </form>
+</div>
+`;
+
+exports[`testing SignIn render Test clicks SignIn tab  3`] = `
+<div>
+  <form
+    class="css-1jmybar"
+  >
+    <img
+      class="css-1kpxy3o"
+      src="logo.png"
+    />
+    <h1
+      class="css-9jhoxj"
+    >
+      Добро пожаловать вМагазин
+    </h1>
+    <div
+      class="css-1bej84q"
+    >
+      <div
+        class="css-bpveru"
+      >
+        <a
+          class="css-16uqpe4"
+        >
+          Вход
+        </a>
+      </div>
+      <div
+        class="css-bw50an"
+      >
+        <a
+          class="css-som9qd"
+          href="/url/url/"
+        >
+          Регистрация
+        </a>
+      </div>
+    </div>
+    <input
+      class="css-13ooyay"
+      disabled=""
+      name="email"
+      placeholder="Почта"
+      type="text"
+      value="email@test.ru"
+    />
+    <input
+      class="css-13ooyay"
+      disabled=""
+      name="password"
+      placeholder="Пароль"
+      type="password"
+      value="12345\\"Dd"
+    />
+    <button
+      class="css-4yv41o"
+      disabled=""
+      type="submit"
+    >
+      Войти
+    </button>
+    <a
+      class="css-1df3x8g"
+      href="/url/url/"
+    >
+      Сбросить пароль
+    </a>
+  </form>
+</div>
+`;
